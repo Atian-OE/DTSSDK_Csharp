@@ -28,49 +28,49 @@ namespace DTSSDK.Model {
             "ZUV2ZW50EhEKCUNoYW5uZWxJRBgBIAEoBRIQCghEZXZpY2VJRBgCIAEoCRIR",
             "CglUaW1lc3RhbXAYAyABKAMSDAoETGluZRgEIAEoCRIkCglFdmVudFR5cGUY",
             "BSABKA4yES5tb2RlbC5GaWJlclN0YXRlEhUKDUNoYW5uZWxMZW5ndGgYBiAB",
-            "KAIi4QEKC0RlZmVuY2Vab25lEgoKAklEGAEgASgFEhAKCFpvbmVOYW1lGAIg",
-            "ASgJEg0KBVN0YXJ0GAMgASgCEg4KBkZpbmlzaBgEIAEoAhILCgNUYWcYBSAB",
-            "KAkSKgoJQWxhcm1UeXBlGAYgASgOMhcubW9kZWwuRGVmZW5jZUFyZWFTdGF0",
-            "ZRIQCghBbGFybUxvYxgHIAEoAhIWCg5NYXhUZW1wZXJhdHVyZRgIIAEoAhIW",
-            "Cg5NaW5UZW1wZXJhdHVyZRgJIAEoAhIaChJBdmVyYWdlVGVtcGVyYXR1cmUY",
-            "CiABKAIikAEKEFNldERldmljZVJlcXVlc3QSHAoUWm9uZVRlbXBOb3RpZnlF",
-            "bmFibGUYASABKAgSHQoVWm9uZUFsYXJtTm90aWZ5RW5hYmxlGAIgASgIEh8K",
-            "F0ZpYmVyU3RhdHVzTm90aWZ5RW5hYmxlGAMgASgIEh4KFlRlbXBTaWduYWxO",
-            "b3RpZnlFbmFibGUYBCABKAgiMQoOU2V0RGV2aWNlUmVwbHkSDwoHU3VjY2Vz",
-            "cxgBIAEoCBIOCgZFcnJNc2cYAiABKAkiOAoVR2V0RGVmZW5jZVpvbmVSZXF1",
-            "ZXN0Eg8KB0NoYW5uZWwYASABKAUSDgoGU2VhcmNoGAIgASgJIlgKE0dldERl",
-            "ZmVuY2Vab25lUmVwbHkSDwoHU3VjY2VzcxgBIAEoCBIOCgZFcnJNc2cYAiAB",
-            "KAkSIAoEUm93cxgDIAMoCzISLm1vZGVsLkRlZmVuY2Vab25lIhQKEkdldERl",
-            "dmljZUlEUmVxdWVzdCJFChBHZXREZXZpY2VJRFJlcGx5Eg8KB1N1Y2Nlc3MY",
-            "ASABKAgSDgoGRXJyTXNnGAIgASgJEhAKCERldmljZUlEGAMgASgJIlgKDlpv",
-            "bmVUZW1wTm90aWZ5EhAKCERldmljZUlEGAEgASgJEhEKCVRpbWVzdGFtcBgC",
-            "IAEoAxIhCgVab25lcxgDIAMoCzISLm1vZGVsLkRlZmVuY2Vab25lIlkKD1pv",
-            "bmVBbGFybU5vdGlmeRIQCghEZXZpY2VJRBgBIAEoCRIRCglUaW1lc3RhbXAY",
-            "AiABKAMSIQoFWm9uZXMYAyADKAsyEi5tb2RlbC5EZWZlbmNlWm9uZSKWAQoR",
-            "RGV2aWNlRXZlbnROb3RpZnkSEQoJQ2hhbm5lbElEGAEgASgFEhAKCERldmlj",
-            "ZUlEGAIgASgJEhEKCVRpbWVzdGFtcBgDIAEoAxIMCgRMaW5lGAQgASgJEiQK",
-            "CUV2ZW50VHlwZRgFIAEoDjIRLm1vZGVsLkZpYmVyU3RhdGUSFQoNQ2hhbm5l",
-            "bExlbmd0aBgGIAEoAiJoChBUZW1wU2lnbmFsTm90aWZ5EhAKCERldmljZUlE",
-            "GAEgASgJEgwKBExpbmUYAiABKAkSEQoJQ2hhbm5lbElEGAMgASgFEg4KBlNp",
-            "Z25hbBgEIAMoAhIRCglUaW1lc3RhbXAYBSABKAMiCwoJSGVhcnRCZWF0KrAC",
-            "CgVNc2dJRBINCglDb25uZWN0SUQQABIQCgxEaXNjb25uZWN0SUQQARIbChdH",
-            "ZXREZWZlbmNlWm9uZVJlcXVlc3RJRBACEhkKFUdldERlZmVuY2Vab25lUmVw",
-            "bHlJRBADEhYKElNldERldmljZVJlcXVlc3RJRBAEEhQKEFNldERldmljZVJl",
-            "cGx5SUQQBRIUChBab25lVGVtcE5vdGlmeUlEEAYSFQoRWm9uZUFsYXJtTm90",
-            "aWZ5SUQQBxIXChNEZXZpY2VFdmVudE5vdGlmeUlEEAgSFgoSVGVtcFNpZ25h",
-            "bE5vdGlmeUlEEAkSGAoUR2V0RGV2aWNlSURSZXF1ZXN0SUQQChIWChJHZXRE",
-            "ZXZpY2VJRFJlcGx5SUQQCxIQCgtIZWFydEJlYXRJRBD6ASp1ChBEZWZlbmNl",
-            "QXJlYVN0YXRlEgoKBk5vcm1hbBAAEg4KCldhcm5EaWZmZXIQARIKCgZXYXJu",
-            "VXAQAhIMCghXYXJuVGVtcBADEg8KC0FsYXJtRGlmZmVyEAQSCwoHQWxhcm1V",
-            "cBAFEg0KCUFsYXJtVGVtcBAGKm4KCkZpYmVyU3RhdGUSDgoKU1NUQVRFSVNP",
-            "SxAAEhAKDFNTVEFUVVNVTkZJThABEg4KClNTVEFUVVNGSU4QAhIOCgpTU1RB",
-            "VFVTQlJLEAMSDgoKU1NUQVRVU1RMTxAEEg4KClNTVEFUVVNMVE0QBWIGcHJv",
-            "dG8z"));
+            "KAIi9AEKC0RlZmVuY2Vab25lEgoKAklEGAEgASgFEhEKCUNoYW5uZWxJRBgC",
+            "IAEoBRIQCghab25lTmFtZRgDIAEoCRINCgVTdGFydBgEIAEoAhIOCgZGaW5p",
+            "c2gYBSABKAISCwoDVGFnGAYgASgJEioKCUFsYXJtVHlwZRgHIAEoDjIXLm1v",
+            "ZGVsLkRlZmVuY2VBcmVhU3RhdGUSEAoIQWxhcm1Mb2MYCCABKAISFgoOTWF4",
+            "VGVtcGVyYXR1cmUYCSABKAISFgoOTWluVGVtcGVyYXR1cmUYCiABKAISGgoS",
+            "QXZlcmFnZVRlbXBlcmF0dXJlGAsgASgCIpABChBTZXREZXZpY2VSZXF1ZXN0",
+            "EhwKFFpvbmVUZW1wTm90aWZ5RW5hYmxlGAEgASgIEh0KFVpvbmVBbGFybU5v",
+            "dGlmeUVuYWJsZRgCIAEoCBIfChdGaWJlclN0YXR1c05vdGlmeUVuYWJsZRgD",
+            "IAEoCBIeChZUZW1wU2lnbmFsTm90aWZ5RW5hYmxlGAQgASgIIjEKDlNldERl",
+            "dmljZVJlcGx5Eg8KB1N1Y2Nlc3MYASABKAgSDgoGRXJyTXNnGAIgASgJIjgK",
+            "FUdldERlZmVuY2Vab25lUmVxdWVzdBIPCgdDaGFubmVsGAEgASgFEg4KBlNl",
+            "YXJjaBgCIAEoCSJYChNHZXREZWZlbmNlWm9uZVJlcGx5Eg8KB1N1Y2Nlc3MY",
+            "ASABKAgSDgoGRXJyTXNnGAIgASgJEiAKBFJvd3MYAyADKAsyEi5tb2RlbC5E",
+            "ZWZlbmNlWm9uZSIUChJHZXREZXZpY2VJRFJlcXVlc3QiRQoQR2V0RGV2aWNl",
+            "SURSZXBseRIPCgdTdWNjZXNzGAEgASgIEg4KBkVyck1zZxgCIAEoCRIQCghE",
+            "ZXZpY2VJRBgDIAEoCSJYCg5ab25lVGVtcE5vdGlmeRIQCghEZXZpY2VJRBgB",
+            "IAEoCRIRCglUaW1lc3RhbXAYAiABKAMSIQoFWm9uZXMYAyADKAsyEi5tb2Rl",
+            "bC5EZWZlbmNlWm9uZSJZCg9ab25lQWxhcm1Ob3RpZnkSEAoIRGV2aWNlSUQY",
+            "ASABKAkSEQoJVGltZXN0YW1wGAIgASgDEiEKBVpvbmVzGAMgAygLMhIubW9k",
+            "ZWwuRGVmZW5jZVpvbmUilgEKEURldmljZUV2ZW50Tm90aWZ5EhEKCUNoYW5u",
+            "ZWxJRBgBIAEoBRIQCghEZXZpY2VJRBgCIAEoCRIRCglUaW1lc3RhbXAYAyAB",
+            "KAMSDAoETGluZRgEIAEoCRIkCglFdmVudFR5cGUYBSABKA4yES5tb2RlbC5G",
+            "aWJlclN0YXRlEhUKDUNoYW5uZWxMZW5ndGgYBiABKAIiaAoQVGVtcFNpZ25h",
+            "bE5vdGlmeRIQCghEZXZpY2VJRBgBIAEoCRIMCgRMaW5lGAIgASgJEhEKCUNo",
+            "YW5uZWxJRBgDIAEoBRIOCgZTaWduYWwYBCADKAISEQoJVGltZXN0YW1wGAUg",
+            "ASgDIgsKCUhlYXJ0QmVhdCqwAgoFTXNnSUQSDQoJQ29ubmVjdElEEAASEAoM",
+            "RGlzY29ubmVjdElEEAESGwoXR2V0RGVmZW5jZVpvbmVSZXF1ZXN0SUQQAhIZ",
+            "ChVHZXREZWZlbmNlWm9uZVJlcGx5SUQQAxIWChJTZXREZXZpY2VSZXF1ZXN0",
+            "SUQQBBIUChBTZXREZXZpY2VSZXBseUlEEAUSFAoQWm9uZVRlbXBOb3RpZnlJ",
+            "RBAGEhUKEVpvbmVBbGFybU5vdGlmeUlEEAcSFwoTRGV2aWNlRXZlbnROb3Rp",
+            "ZnlJRBAIEhYKElRlbXBTaWduYWxOb3RpZnlJRBAJEhgKFEdldERldmljZUlE",
+            "UmVxdWVzdElEEAoSFgoSR2V0RGV2aWNlSURSZXBseUlEEAsSEAoLSGVhcnRC",
+            "ZWF0SUQQ+gEqdQoQRGVmZW5jZUFyZWFTdGF0ZRIKCgZOb3JtYWwQABIOCgpX",
+            "YXJuRGlmZmVyEAESCgoGV2FyblVwEAISDAoIV2FyblRlbXAQAxIPCgtBbGFy",
+            "bURpZmZlchAEEgsKB0FsYXJtVXAQBRINCglBbGFybVRlbXAQBipuCgpGaWJl",
+            "clN0YXRlEg4KClNTVEFURUlTT0sQABIQCgxTU1RBVFVTVU5GSU4QARIOCgpT",
+            "U1RBVFVTRklOEAISDgoKU1NUQVRVU0JSSxADEg4KClNTVEFUVVNUTE8QBBIO",
+            "CgpTU1RBVFVTTFRNEAViBnByb3RvMw=="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { },
           new pbr::GeneratedClrTypeInfo(new[] {typeof(global::DTSSDK.Model.MsgID), typeof(global::DTSSDK.Model.DefenceAreaState), typeof(global::DTSSDK.Model.FiberState), }, new pbr::GeneratedClrTypeInfo[] {
             new pbr::GeneratedClrTypeInfo(typeof(global::DTSSDK.Model.DeviceEvent), global::DTSSDK.Model.DeviceEvent.Parser, new[]{ "ChannelID", "DeviceID", "Timestamp", "Line", "EventType", "ChannelLength" }, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::DTSSDK.Model.DefenceZone), global::DTSSDK.Model.DefenceZone.Parser, new[]{ "ID", "ZoneName", "Start", "Finish", "Tag", "AlarmType", "AlarmLoc", "MaxTemperature", "MinTemperature", "AverageTemperature" }, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::DTSSDK.Model.DefenceZone), global::DTSSDK.Model.DefenceZone.Parser, new[]{ "ID", "ChannelID", "ZoneName", "Start", "Finish", "Tag", "AlarmType", "AlarmLoc", "MaxTemperature", "MinTemperature", "AverageTemperature" }, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::DTSSDK.Model.SetDeviceRequest), global::DTSSDK.Model.SetDeviceRequest.Parser, new[]{ "ZoneTempNotifyEnable", "ZoneAlarmNotifyEnable", "FiberStatusNotifyEnable", "TempSignalNotifyEnable" }, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::DTSSDK.Model.SetDeviceReply), global::DTSSDK.Model.SetDeviceReply.Parser, new[]{ "Success", "ErrMsg" }, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::DTSSDK.Model.GetDefenceZoneRequest), global::DTSSDK.Model.GetDefenceZoneRequest.Parser, new[]{ "Channel", "Search" }, null, null, null),
@@ -472,6 +472,7 @@ namespace DTSSDK.Model {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public DefenceZone(DefenceZone other) : this() {
       iD_ = other.iD_;
+      channelID_ = other.channelID_;
       zoneName_ = other.zoneName_;
       start_ = other.start_;
       finish_ = other.finish_;
@@ -500,8 +501,19 @@ namespace DTSSDK.Model {
       }
     }
 
+    /// <summary>Field number for the "ChannelID" field.</summary>
+    public const int ChannelIDFieldNumber = 2;
+    private int channelID_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public int ChannelID {
+      get { return channelID_; }
+      set {
+        channelID_ = value;
+      }
+    }
+
     /// <summary>Field number for the "ZoneName" field.</summary>
-    public const int ZoneNameFieldNumber = 2;
+    public const int ZoneNameFieldNumber = 3;
     private string zoneName_ = "";
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public string ZoneName {
@@ -512,7 +524,7 @@ namespace DTSSDK.Model {
     }
 
     /// <summary>Field number for the "Start" field.</summary>
-    public const int StartFieldNumber = 3;
+    public const int StartFieldNumber = 4;
     private float start_;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public float Start {
@@ -523,7 +535,7 @@ namespace DTSSDK.Model {
     }
 
     /// <summary>Field number for the "Finish" field.</summary>
-    public const int FinishFieldNumber = 4;
+    public const int FinishFieldNumber = 5;
     private float finish_;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public float Finish {
@@ -534,7 +546,7 @@ namespace DTSSDK.Model {
     }
 
     /// <summary>Field number for the "Tag" field.</summary>
-    public const int TagFieldNumber = 5;
+    public const int TagFieldNumber = 6;
     private string tag_ = "";
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public string Tag {
@@ -545,7 +557,7 @@ namespace DTSSDK.Model {
     }
 
     /// <summary>Field number for the "AlarmType" field.</summary>
-    public const int AlarmTypeFieldNumber = 6;
+    public const int AlarmTypeFieldNumber = 7;
     private global::DTSSDK.Model.DefenceAreaState alarmType_ = 0;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public global::DTSSDK.Model.DefenceAreaState AlarmType {
@@ -556,7 +568,7 @@ namespace DTSSDK.Model {
     }
 
     /// <summary>Field number for the "AlarmLoc" field.</summary>
-    public const int AlarmLocFieldNumber = 7;
+    public const int AlarmLocFieldNumber = 8;
     private float alarmLoc_;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public float AlarmLoc {
@@ -567,7 +579,7 @@ namespace DTSSDK.Model {
     }
 
     /// <summary>Field number for the "MaxTemperature" field.</summary>
-    public const int MaxTemperatureFieldNumber = 8;
+    public const int MaxTemperatureFieldNumber = 9;
     private float maxTemperature_;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public float MaxTemperature {
@@ -578,7 +590,7 @@ namespace DTSSDK.Model {
     }
 
     /// <summary>Field number for the "MinTemperature" field.</summary>
-    public const int MinTemperatureFieldNumber = 9;
+    public const int MinTemperatureFieldNumber = 10;
     private float minTemperature_;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public float MinTemperature {
@@ -589,7 +601,7 @@ namespace DTSSDK.Model {
     }
 
     /// <summary>Field number for the "AverageTemperature" field.</summary>
-    public const int AverageTemperatureFieldNumber = 10;
+    public const int AverageTemperatureFieldNumber = 11;
     private float averageTemperature_;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public float AverageTemperature {
@@ -613,6 +625,7 @@ namespace DTSSDK.Model {
         return true;
       }
       if (ID != other.ID) return false;
+      if (ChannelID != other.ChannelID) return false;
       if (ZoneName != other.ZoneName) return false;
       if (!pbc::ProtobufEqualityComparers.BitwiseSingleEqualityComparer.Equals(Start, other.Start)) return false;
       if (!pbc::ProtobufEqualityComparers.BitwiseSingleEqualityComparer.Equals(Finish, other.Finish)) return false;
@@ -629,6 +642,7 @@ namespace DTSSDK.Model {
     public override int GetHashCode() {
       int hash = 1;
       if (ID != 0) hash ^= ID.GetHashCode();
+      if (ChannelID != 0) hash ^= ChannelID.GetHashCode();
       if (ZoneName.Length != 0) hash ^= ZoneName.GetHashCode();
       if (Start != 0F) hash ^= pbc::ProtobufEqualityComparers.BitwiseSingleEqualityComparer.GetHashCode(Start);
       if (Finish != 0F) hash ^= pbc::ProtobufEqualityComparers.BitwiseSingleEqualityComparer.GetHashCode(Finish);
@@ -655,40 +669,44 @@ namespace DTSSDK.Model {
         output.WriteRawTag(8);
         output.WriteInt32(ID);
       }
+      if (ChannelID != 0) {
+        output.WriteRawTag(16);
+        output.WriteInt32(ChannelID);
+      }
       if (ZoneName.Length != 0) {
-        output.WriteRawTag(18);
+        output.WriteRawTag(26);
         output.WriteString(ZoneName);
       }
       if (Start != 0F) {
-        output.WriteRawTag(29);
+        output.WriteRawTag(37);
         output.WriteFloat(Start);
       }
       if (Finish != 0F) {
-        output.WriteRawTag(37);
+        output.WriteRawTag(45);
         output.WriteFloat(Finish);
       }
       if (Tag.Length != 0) {
-        output.WriteRawTag(42);
+        output.WriteRawTag(50);
         output.WriteString(Tag);
       }
       if (AlarmType != 0) {
-        output.WriteRawTag(48);
+        output.WriteRawTag(56);
         output.WriteEnum((int) AlarmType);
       }
       if (AlarmLoc != 0F) {
-        output.WriteRawTag(61);
+        output.WriteRawTag(69);
         output.WriteFloat(AlarmLoc);
       }
       if (MaxTemperature != 0F) {
-        output.WriteRawTag(69);
+        output.WriteRawTag(77);
         output.WriteFloat(MaxTemperature);
       }
       if (MinTemperature != 0F) {
-        output.WriteRawTag(77);
+        output.WriteRawTag(85);
         output.WriteFloat(MinTemperature);
       }
       if (AverageTemperature != 0F) {
-        output.WriteRawTag(85);
+        output.WriteRawTag(93);
         output.WriteFloat(AverageTemperature);
       }
       if (_unknownFields != null) {
@@ -701,6 +719,9 @@ namespace DTSSDK.Model {
       int size = 0;
       if (ID != 0) {
         size += 1 + pb::CodedOutputStream.ComputeInt32Size(ID);
+      }
+      if (ChannelID != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeInt32Size(ChannelID);
       }
       if (ZoneName.Length != 0) {
         size += 1 + pb::CodedOutputStream.ComputeStringSize(ZoneName);
@@ -742,6 +763,9 @@ namespace DTSSDK.Model {
       }
       if (other.ID != 0) {
         ID = other.ID;
+      }
+      if (other.ChannelID != 0) {
+        ChannelID = other.ChannelID;
       }
       if (other.ZoneName.Length != 0) {
         ZoneName = other.ZoneName;
@@ -785,39 +809,43 @@ namespace DTSSDK.Model {
             ID = input.ReadInt32();
             break;
           }
-          case 18: {
+          case 16: {
+            ChannelID = input.ReadInt32();
+            break;
+          }
+          case 26: {
             ZoneName = input.ReadString();
             break;
           }
-          case 29: {
+          case 37: {
             Start = input.ReadFloat();
             break;
           }
-          case 37: {
+          case 45: {
             Finish = input.ReadFloat();
             break;
           }
-          case 42: {
+          case 50: {
             Tag = input.ReadString();
             break;
           }
-          case 48: {
+          case 56: {
             AlarmType = (global::DTSSDK.Model.DefenceAreaState) input.ReadEnum();
             break;
           }
-          case 61: {
+          case 69: {
             AlarmLoc = input.ReadFloat();
             break;
           }
-          case 69: {
+          case 77: {
             MaxTemperature = input.ReadFloat();
             break;
           }
-          case 77: {
+          case 85: {
             MinTemperature = input.ReadFloat();
             break;
           }
-          case 85: {
+          case 93: {
             AverageTemperature = input.ReadFloat();
             break;
           }
