@@ -9,8 +9,7 @@ using pb = global::Google.Protobuf;
 using pbc = global::Google.Protobuf.Collections;
 using pbr = global::Google.Protobuf.Reflection;
 using scg = global::System.Collections.Generic;
-namespace DTSSDK.Model
-{
+namespace DTSSDK.Model {
 
   /// <summary>Holder for reflection information generated from dtssdk/model/message.proto</summary>
   public static partial class MessageReflection {
@@ -29,48 +28,49 @@ namespace DTSSDK.Model
             "ZUV2ZW50EhEKCUNoYW5uZWxJRBgBIAEoBRIQCghEZXZpY2VJRBgCIAEoCRIR",
             "CglUaW1lc3RhbXAYAyABKAMSDAoETGluZRgEIAEoCRIkCglFdmVudFR5cGUY",
             "BSABKA4yES5tb2RlbC5GaWJlclN0YXRlEhUKDUNoYW5uZWxMZW5ndGgYBiAB",
-            "KAIizwEKC0RlZmVuY2Vab25lEgoKAklEGAEgASgFEhAKCFpvbmVOYW1lGAIg",
+            "KAIi4QEKC0RlZmVuY2Vab25lEgoKAklEGAEgASgFEhAKCFpvbmVOYW1lGAIg",
             "ASgJEg0KBVN0YXJ0GAMgASgCEg4KBkZpbmlzaBgEIAEoAhILCgNUYWcYBSAB",
             "KAkSKgoJQWxhcm1UeXBlGAYgASgOMhcubW9kZWwuRGVmZW5jZUFyZWFTdGF0",
-            "ZRIWCg5NYXhUZW1wZXJhdHVyZRgHIAEoAhIWCg5NaW5UZW1wZXJhdHVyZRgI",
-            "IAEoAhIaChJBdmVyYWdlVGVtcGVyYXR1cmUYCSABKAIikAEKEFNldERldmlj",
-            "ZVJlcXVlc3QSHAoUWm9uZVRlbXBOb3RpZnlFbmFibGUYASABKAgSHQoVWm9u",
-            "ZUFsYXJtTm90aWZ5RW5hYmxlGAIgASgIEh8KF0ZpYmVyU3RhdHVzTm90aWZ5",
-            "RW5hYmxlGAMgASgIEh4KFlRlbXBTaWduYWxOb3RpZnlFbmFibGUYBCABKAgi",
-            "MQoOU2V0RGV2aWNlUmVwbHkSDwoHU3VjY2VzcxgBIAEoCBIOCgZFcnJNc2cY",
-            "AiABKAkiOAoVR2V0RGVmZW5jZVpvbmVSZXF1ZXN0Eg8KB0NoYW5uZWwYASAB",
-            "KAUSDgoGU2VhcmNoGAIgASgJIlgKE0dldERlZmVuY2Vab25lUmVwbHkSDwoH",
-            "U3VjY2VzcxgBIAEoCBIOCgZFcnJNc2cYAiABKAkSIAoEUm93cxgDIAMoCzIS",
-            "Lm1vZGVsLkRlZmVuY2Vab25lIhQKEkdldERldmljZUlEUmVxdWVzdCJFChBH",
-            "ZXREZXZpY2VJRFJlcGx5Eg8KB1N1Y2Nlc3MYASABKAgSDgoGRXJyTXNnGAIg",
-            "ASgJEhAKCERldmljZUlEGAMgASgJIlgKDlpvbmVUZW1wTm90aWZ5EhAKCERl",
-            "dmljZUlEGAEgASgJEhEKCVRpbWVzdGFtcBgCIAEoAxIhCgVab25lcxgDIAMo",
-            "CzISLm1vZGVsLkRlZmVuY2Vab25lIlkKD1pvbmVBbGFybU5vdGlmeRIQCghE",
-            "ZXZpY2VJRBgBIAEoCRIRCglUaW1lc3RhbXAYAiABKAMSIQoFWm9uZXMYAyAD",
-            "KAsyEi5tb2RlbC5EZWZlbmNlWm9uZSKWAQoRRGV2aWNlRXZlbnROb3RpZnkS",
-            "EQoJQ2hhbm5lbElEGAEgASgFEhAKCERldmljZUlEGAIgASgJEhEKCVRpbWVz",
-            "dGFtcBgDIAEoAxIMCgRMaW5lGAQgASgJEiQKCUV2ZW50VHlwZRgFIAEoDjIR",
-            "Lm1vZGVsLkZpYmVyU3RhdGUSFQoNQ2hhbm5lbExlbmd0aBgGIAEoAiJoChBU",
-            "ZW1wU2lnbmFsTm90aWZ5EhAKCERldmljZUlEGAEgASgJEgwKBExpbmUYAiAB",
-            "KAkSEQoJQ2hhbm5lbElEGAMgASgFEg4KBlNpZ25hbBgEIAMoAhIRCglUaW1l",
-            "c3RhbXAYBSABKAMiCwoJSGVhcnRCZWF0KrACCgVNc2dJRBINCglDb25uZWN0",
-            "SUQQABIQCgxEaXNjb25uZWN0SUQQARIbChdHZXREZWZlbmNlWm9uZVJlcXVl",
-            "c3RJRBACEhkKFUdldERlZmVuY2Vab25lUmVwbHlJRBADEhYKElNldERldmlj",
-            "ZVJlcXVlc3RJRBAEEhQKEFNldERldmljZVJlcGx5SUQQBRIUChBab25lVGVt",
-            "cE5vdGlmeUlEEAYSFQoRWm9uZUFsYXJtTm90aWZ5SUQQBxIXChNEZXZpY2VF",
-            "dmVudE5vdGlmeUlEEAgSFgoSVGVtcFNpZ25hbE5vdGlmeUlEEAkSGAoUR2V0",
-            "RGV2aWNlSURSZXF1ZXN0SUQQChIWChJHZXREZXZpY2VJRFJlcGx5SUQQCxIQ",
-            "CgtIZWFydEJlYXRJRBD6ASp1ChBEZWZlbmNlQXJlYVN0YXRlEgoKBk5vcm1h",
-            "bBAAEg4KCldhcm5EaWZmZXIQARIKCgZXYXJuVXAQAhIMCghXYXJuVGVtcBAD",
-            "Eg8KC0FsYXJtRGlmZmVyEAQSCwoHQWxhcm1VcBAFEg0KCUFsYXJtVGVtcBAG",
-            "Km4KCkZpYmVyU3RhdGUSDgoKU1NUQVRFSVNPSxAAEhAKDFNTVEFUVVNVTkZJ",
-            "ThABEg4KClNTVEFUVVNGSU4QAhIOCgpTU1RBVFVTQlJLEAMSDgoKU1NUQVRV",
-            "U1RMTxAEEg4KClNTVEFUVVNMVE0QBWIGcHJvdG8z"));
+            "ZRIQCghBbGFybUxvYxgHIAEoAhIWCg5NYXhUZW1wZXJhdHVyZRgIIAEoAhIW",
+            "Cg5NaW5UZW1wZXJhdHVyZRgJIAEoAhIaChJBdmVyYWdlVGVtcGVyYXR1cmUY",
+            "CiABKAIikAEKEFNldERldmljZVJlcXVlc3QSHAoUWm9uZVRlbXBOb3RpZnlF",
+            "bmFibGUYASABKAgSHQoVWm9uZUFsYXJtTm90aWZ5RW5hYmxlGAIgASgIEh8K",
+            "F0ZpYmVyU3RhdHVzTm90aWZ5RW5hYmxlGAMgASgIEh4KFlRlbXBTaWduYWxO",
+            "b3RpZnlFbmFibGUYBCABKAgiMQoOU2V0RGV2aWNlUmVwbHkSDwoHU3VjY2Vz",
+            "cxgBIAEoCBIOCgZFcnJNc2cYAiABKAkiOAoVR2V0RGVmZW5jZVpvbmVSZXF1",
+            "ZXN0Eg8KB0NoYW5uZWwYASABKAUSDgoGU2VhcmNoGAIgASgJIlgKE0dldERl",
+            "ZmVuY2Vab25lUmVwbHkSDwoHU3VjY2VzcxgBIAEoCBIOCgZFcnJNc2cYAiAB",
+            "KAkSIAoEUm93cxgDIAMoCzISLm1vZGVsLkRlZmVuY2Vab25lIhQKEkdldERl",
+            "dmljZUlEUmVxdWVzdCJFChBHZXREZXZpY2VJRFJlcGx5Eg8KB1N1Y2Nlc3MY",
+            "ASABKAgSDgoGRXJyTXNnGAIgASgJEhAKCERldmljZUlEGAMgASgJIlgKDlpv",
+            "bmVUZW1wTm90aWZ5EhAKCERldmljZUlEGAEgASgJEhEKCVRpbWVzdGFtcBgC",
+            "IAEoAxIhCgVab25lcxgDIAMoCzISLm1vZGVsLkRlZmVuY2Vab25lIlkKD1pv",
+            "bmVBbGFybU5vdGlmeRIQCghEZXZpY2VJRBgBIAEoCRIRCglUaW1lc3RhbXAY",
+            "AiABKAMSIQoFWm9uZXMYAyADKAsyEi5tb2RlbC5EZWZlbmNlWm9uZSKWAQoR",
+            "RGV2aWNlRXZlbnROb3RpZnkSEQoJQ2hhbm5lbElEGAEgASgFEhAKCERldmlj",
+            "ZUlEGAIgASgJEhEKCVRpbWVzdGFtcBgDIAEoAxIMCgRMaW5lGAQgASgJEiQK",
+            "CUV2ZW50VHlwZRgFIAEoDjIRLm1vZGVsLkZpYmVyU3RhdGUSFQoNQ2hhbm5l",
+            "bExlbmd0aBgGIAEoAiJoChBUZW1wU2lnbmFsTm90aWZ5EhAKCERldmljZUlE",
+            "GAEgASgJEgwKBExpbmUYAiABKAkSEQoJQ2hhbm5lbElEGAMgASgFEg4KBlNp",
+            "Z25hbBgEIAMoAhIRCglUaW1lc3RhbXAYBSABKAMiCwoJSGVhcnRCZWF0KrAC",
+            "CgVNc2dJRBINCglDb25uZWN0SUQQABIQCgxEaXNjb25uZWN0SUQQARIbChdH",
+            "ZXREZWZlbmNlWm9uZVJlcXVlc3RJRBACEhkKFUdldERlZmVuY2Vab25lUmVw",
+            "bHlJRBADEhYKElNldERldmljZVJlcXVlc3RJRBAEEhQKEFNldERldmljZVJl",
+            "cGx5SUQQBRIUChBab25lVGVtcE5vdGlmeUlEEAYSFQoRWm9uZUFsYXJtTm90",
+            "aWZ5SUQQBxIXChNEZXZpY2VFdmVudE5vdGlmeUlEEAgSFgoSVGVtcFNpZ25h",
+            "bE5vdGlmeUlEEAkSGAoUR2V0RGV2aWNlSURSZXF1ZXN0SUQQChIWChJHZXRE",
+            "ZXZpY2VJRFJlcGx5SUQQCxIQCgtIZWFydEJlYXRJRBD6ASp1ChBEZWZlbmNl",
+            "QXJlYVN0YXRlEgoKBk5vcm1hbBAAEg4KCldhcm5EaWZmZXIQARIKCgZXYXJu",
+            "VXAQAhIMCghXYXJuVGVtcBADEg8KC0FsYXJtRGlmZmVyEAQSCwoHQWxhcm1V",
+            "cBAFEg0KCUFsYXJtVGVtcBAGKm4KCkZpYmVyU3RhdGUSDgoKU1NUQVRFSVNP",
+            "SxAAEhAKDFNTVEFUVVNVTkZJThABEg4KClNTVEFUVVNGSU4QAhIOCgpTU1RB",
+            "VFVTQlJLEAMSDgoKU1NUQVRVU1RMTxAEEg4KClNTVEFUVVNMVE0QBWIGcHJv",
+            "dG8z"));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { },
           new pbr::GeneratedClrTypeInfo(new[] {typeof(global::DTSSDK.Model.MsgID), typeof(global::DTSSDK.Model.DefenceAreaState), typeof(global::DTSSDK.Model.FiberState), }, new pbr::GeneratedClrTypeInfo[] {
             new pbr::GeneratedClrTypeInfo(typeof(global::DTSSDK.Model.DeviceEvent), global::DTSSDK.Model.DeviceEvent.Parser, new[]{ "ChannelID", "DeviceID", "Timestamp", "Line", "EventType", "ChannelLength" }, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::DTSSDK.Model.DefenceZone), global::DTSSDK.Model.DefenceZone.Parser, new[]{ "ID", "ZoneName", "Start", "Finish", "Tag", "AlarmType", "MaxTemperature", "MinTemperature", "AverageTemperature" }, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::DTSSDK.Model.DefenceZone), global::DTSSDK.Model.DefenceZone.Parser, new[]{ "ID", "ZoneName", "Start", "Finish", "Tag", "AlarmType", "AlarmLoc", "MaxTemperature", "MinTemperature", "AverageTemperature" }, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::DTSSDK.Model.SetDeviceRequest), global::DTSSDK.Model.SetDeviceRequest.Parser, new[]{ "ZoneTempNotifyEnable", "ZoneAlarmNotifyEnable", "FiberStatusNotifyEnable", "TempSignalNotifyEnable" }, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::DTSSDK.Model.SetDeviceReply), global::DTSSDK.Model.SetDeviceReply.Parser, new[]{ "Success", "ErrMsg" }, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::DTSSDK.Model.GetDefenceZoneRequest), global::DTSSDK.Model.GetDefenceZoneRequest.Parser, new[]{ "Channel", "Search" }, null, null, null),
@@ -477,6 +477,7 @@ namespace DTSSDK.Model
       finish_ = other.finish_;
       tag_ = other.tag_;
       alarmType_ = other.alarmType_;
+      alarmLoc_ = other.alarmLoc_;
       maxTemperature_ = other.maxTemperature_;
       minTemperature_ = other.minTemperature_;
       averageTemperature_ = other.averageTemperature_;
@@ -554,8 +555,19 @@ namespace DTSSDK.Model
       }
     }
 
+    /// <summary>Field number for the "AlarmLoc" field.</summary>
+    public const int AlarmLocFieldNumber = 7;
+    private float alarmLoc_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public float AlarmLoc {
+      get { return alarmLoc_; }
+      set {
+        alarmLoc_ = value;
+      }
+    }
+
     /// <summary>Field number for the "MaxTemperature" field.</summary>
-    public const int MaxTemperatureFieldNumber = 7;
+    public const int MaxTemperatureFieldNumber = 8;
     private float maxTemperature_;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public float MaxTemperature {
@@ -566,7 +578,7 @@ namespace DTSSDK.Model
     }
 
     /// <summary>Field number for the "MinTemperature" field.</summary>
-    public const int MinTemperatureFieldNumber = 8;
+    public const int MinTemperatureFieldNumber = 9;
     private float minTemperature_;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public float MinTemperature {
@@ -577,7 +589,7 @@ namespace DTSSDK.Model
     }
 
     /// <summary>Field number for the "AverageTemperature" field.</summary>
-    public const int AverageTemperatureFieldNumber = 9;
+    public const int AverageTemperatureFieldNumber = 10;
     private float averageTemperature_;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public float AverageTemperature {
@@ -606,6 +618,7 @@ namespace DTSSDK.Model
       if (!pbc::ProtobufEqualityComparers.BitwiseSingleEqualityComparer.Equals(Finish, other.Finish)) return false;
       if (Tag != other.Tag) return false;
       if (AlarmType != other.AlarmType) return false;
+      if (!pbc::ProtobufEqualityComparers.BitwiseSingleEqualityComparer.Equals(AlarmLoc, other.AlarmLoc)) return false;
       if (!pbc::ProtobufEqualityComparers.BitwiseSingleEqualityComparer.Equals(MaxTemperature, other.MaxTemperature)) return false;
       if (!pbc::ProtobufEqualityComparers.BitwiseSingleEqualityComparer.Equals(MinTemperature, other.MinTemperature)) return false;
       if (!pbc::ProtobufEqualityComparers.BitwiseSingleEqualityComparer.Equals(AverageTemperature, other.AverageTemperature)) return false;
@@ -621,6 +634,7 @@ namespace DTSSDK.Model
       if (Finish != 0F) hash ^= pbc::ProtobufEqualityComparers.BitwiseSingleEqualityComparer.GetHashCode(Finish);
       if (Tag.Length != 0) hash ^= Tag.GetHashCode();
       if (AlarmType != 0) hash ^= AlarmType.GetHashCode();
+      if (AlarmLoc != 0F) hash ^= pbc::ProtobufEqualityComparers.BitwiseSingleEqualityComparer.GetHashCode(AlarmLoc);
       if (MaxTemperature != 0F) hash ^= pbc::ProtobufEqualityComparers.BitwiseSingleEqualityComparer.GetHashCode(MaxTemperature);
       if (MinTemperature != 0F) hash ^= pbc::ProtobufEqualityComparers.BitwiseSingleEqualityComparer.GetHashCode(MinTemperature);
       if (AverageTemperature != 0F) hash ^= pbc::ProtobufEqualityComparers.BitwiseSingleEqualityComparer.GetHashCode(AverageTemperature);
@@ -661,16 +675,20 @@ namespace DTSSDK.Model
         output.WriteRawTag(48);
         output.WriteEnum((int) AlarmType);
       }
-      if (MaxTemperature != 0F) {
+      if (AlarmLoc != 0F) {
         output.WriteRawTag(61);
+        output.WriteFloat(AlarmLoc);
+      }
+      if (MaxTemperature != 0F) {
+        output.WriteRawTag(69);
         output.WriteFloat(MaxTemperature);
       }
       if (MinTemperature != 0F) {
-        output.WriteRawTag(69);
+        output.WriteRawTag(77);
         output.WriteFloat(MinTemperature);
       }
       if (AverageTemperature != 0F) {
-        output.WriteRawTag(77);
+        output.WriteRawTag(85);
         output.WriteFloat(AverageTemperature);
       }
       if (_unknownFields != null) {
@@ -698,6 +716,9 @@ namespace DTSSDK.Model
       }
       if (AlarmType != 0) {
         size += 1 + pb::CodedOutputStream.ComputeEnumSize((int) AlarmType);
+      }
+      if (AlarmLoc != 0F) {
+        size += 1 + 4;
       }
       if (MaxTemperature != 0F) {
         size += 1 + 4;
@@ -736,6 +757,9 @@ namespace DTSSDK.Model
       }
       if (other.AlarmType != 0) {
         AlarmType = other.AlarmType;
+      }
+      if (other.AlarmLoc != 0F) {
+        AlarmLoc = other.AlarmLoc;
       }
       if (other.MaxTemperature != 0F) {
         MaxTemperature = other.MaxTemperature;
@@ -782,14 +806,18 @@ namespace DTSSDK.Model
             break;
           }
           case 61: {
-            MaxTemperature = input.ReadFloat();
+            AlarmLoc = input.ReadFloat();
             break;
           }
           case 69: {
-            MinTemperature = input.ReadFloat();
+            MaxTemperature = input.ReadFloat();
             break;
           }
           case 77: {
+            MinTemperature = input.ReadFloat();
+            break;
+          }
+          case 85: {
             AverageTemperature = input.ReadFloat();
             break;
           }

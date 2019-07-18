@@ -1,6 +1,7 @@
 ﻿using DTSSDK;
 using DTSSDK.Model;
 using System;
+using Google.Protobuf.Collections;
 
 namespace demo
 {
@@ -28,6 +29,7 @@ namespace demo
         
         static void ZoneTempNotify(ZoneTempNotify notify)
         {
+            
             Console.WriteLine("ZoneTempNotify:" + notify.DeviceID);
         }
        
