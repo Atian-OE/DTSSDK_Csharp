@@ -9,7 +9,8 @@ using pb = global::Google.Protobuf;
 using pbc = global::Google.Protobuf.Collections;
 using pbr = global::Google.Protobuf.Reflection;
 using scg = global::System.Collections.Generic;
-namespace DTSSDK.Model {
+namespace DTSSDK.Model
+{
 
   /// <summary>Holder for reflection information generated from dtssdk/model/message.proto</summary>
   public static partial class MessageReflection {
@@ -50,22 +51,22 @@ namespace DTSSDK.Model {
             "ZWwuRGVmZW5jZVpvbmUilgEKEURldmljZUV2ZW50Tm90aWZ5EhEKCUNoYW5u",
             "ZWxJRBgBIAEoBRIQCghEZXZpY2VJRBgCIAEoCRIRCglUaW1lc3RhbXAYAyAB",
             "KAMSDAoETGluZRgEIAEoCRIkCglFdmVudFR5cGUYBSABKA4yES5tb2RlbC5G",
-            "aWJlclN0YXRlEhUKDUNoYW5uZWxMZW5ndGgYBiABKAIiaAoQVGVtcFNpZ25h",
+            "aWJlclN0YXRlEhUKDUNoYW5uZWxMZW5ndGgYBiABKAIifAoQVGVtcFNpZ25h",
             "bE5vdGlmeRIQCghEZXZpY2VJRBgBIAEoCRIMCgRMaW5lGAIgASgJEhEKCUNo",
-            "YW5uZWxJRBgDIAEoBRIOCgZTaWduYWwYBCADKAISEQoJVGltZXN0YW1wGAUg",
-            "ASgDIgsKCUhlYXJ0QmVhdCqwAgoFTXNnSUQSDQoJQ29ubmVjdElEEAASEAoM",
-            "RGlzY29ubmVjdElEEAESGwoXR2V0RGVmZW5jZVpvbmVSZXF1ZXN0SUQQAhIZ",
-            "ChVHZXREZWZlbmNlWm9uZVJlcGx5SUQQAxIWChJTZXREZXZpY2VSZXF1ZXN0",
-            "SUQQBBIUChBTZXREZXZpY2VSZXBseUlEEAUSFAoQWm9uZVRlbXBOb3RpZnlJ",
-            "RBAGEhUKEVpvbmVBbGFybU5vdGlmeUlEEAcSFwoTRGV2aWNlRXZlbnROb3Rp",
-            "ZnlJRBAIEhYKElRlbXBTaWduYWxOb3RpZnlJRBAJEhgKFEdldERldmljZUlE",
-            "UmVxdWVzdElEEAoSFgoSR2V0RGV2aWNlSURSZXBseUlEEAsSEAoLSGVhcnRC",
-            "ZWF0SUQQ+gEqdQoQRGVmZW5jZUFyZWFTdGF0ZRIKCgZOb3JtYWwQABIOCgpX",
-            "YXJuRGlmZmVyEAESCgoGV2FyblVwEAISDAoIV2FyblRlbXAQAxIPCgtBbGFy",
-            "bURpZmZlchAEEgsKB0FsYXJtVXAQBRINCglBbGFybVRlbXAQBipuCgpGaWJl",
-            "clN0YXRlEg4KClNTVEFURUlTT0sQABIQCgxTU1RBVFVTVU5GSU4QARIOCgpT",
-            "U1RBVFVTRklOEAISDgoKU1NUQVRVU0JSSxADEg4KClNTVEFUVVNUTE8QBBIO",
-            "CgpTU1RBVFVTTFRNEAViBnByb3RvMw=="));
+            "YW5uZWxJRBgDIAEoBRISCgpSZWFsTGVuZ3RoGAQgASgCEg4KBlNpZ25hbBgF",
+            "IAMoAhIRCglUaW1lc3RhbXAYBiABKAMiCwoJSGVhcnRCZWF0KrACCgVNc2dJ",
+            "RBINCglDb25uZWN0SUQQABIQCgxEaXNjb25uZWN0SUQQARIbChdHZXREZWZl",
+            "bmNlWm9uZVJlcXVlc3RJRBACEhkKFUdldERlZmVuY2Vab25lUmVwbHlJRBAD",
+            "EhYKElNldERldmljZVJlcXVlc3RJRBAEEhQKEFNldERldmljZVJlcGx5SUQQ",
+            "BRIUChBab25lVGVtcE5vdGlmeUlEEAYSFQoRWm9uZUFsYXJtTm90aWZ5SUQQ",
+            "BxIXChNEZXZpY2VFdmVudE5vdGlmeUlEEAgSFgoSVGVtcFNpZ25hbE5vdGlm",
+            "eUlEEAkSGAoUR2V0RGV2aWNlSURSZXF1ZXN0SUQQChIWChJHZXREZXZpY2VJ",
+            "RFJlcGx5SUQQCxIQCgtIZWFydEJlYXRJRBD6ASp1ChBEZWZlbmNlQXJlYVN0",
+            "YXRlEgoKBk5vcm1hbBAAEg4KCldhcm5EaWZmZXIQARIKCgZXYXJuVXAQAhIM",
+            "CghXYXJuVGVtcBADEg8KC0FsYXJtRGlmZmVyEAQSCwoHQWxhcm1VcBAFEg0K",
+            "CUFsYXJtVGVtcBAGKm4KCkZpYmVyU3RhdGUSDgoKU1NUQVRFSVNPSxAAEhAK",
+            "DFNTVEFUVVNVTkZJThABEg4KClNTVEFUVVNGSU4QAhIOCgpTU1RBVFVTQlJL",
+            "EAMSDgoKU1NUQVRVU1RMTxAEEg4KClNTVEFUVVNMVE0QBWIGcHJvdG8z"));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { },
           new pbr::GeneratedClrTypeInfo(new[] {typeof(global::DTSSDK.Model.MsgID), typeof(global::DTSSDK.Model.DefenceAreaState), typeof(global::DTSSDK.Model.FiberState), }, new pbr::GeneratedClrTypeInfo[] {
@@ -80,7 +81,7 @@ namespace DTSSDK.Model {
             new pbr::GeneratedClrTypeInfo(typeof(global::DTSSDK.Model.ZoneTempNotify), global::DTSSDK.Model.ZoneTempNotify.Parser, new[]{ "DeviceID", "Timestamp", "Zones" }, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::DTSSDK.Model.ZoneAlarmNotify), global::DTSSDK.Model.ZoneAlarmNotify.Parser, new[]{ "DeviceID", "Timestamp", "Zones" }, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::DTSSDK.Model.DeviceEventNotify), global::DTSSDK.Model.DeviceEventNotify.Parser, new[]{ "ChannelID", "DeviceID", "Timestamp", "Line", "EventType", "ChannelLength" }, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::DTSSDK.Model.TempSignalNotify), global::DTSSDK.Model.TempSignalNotify.Parser, new[]{ "DeviceID", "Line", "ChannelID", "Signal", "Timestamp" }, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::DTSSDK.Model.TempSignalNotify), global::DTSSDK.Model.TempSignalNotify.Parser, new[]{ "DeviceID", "Line", "ChannelID", "RealLength", "Signal", "Timestamp" }, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::DTSSDK.Model.HeartBeat), global::DTSSDK.Model.HeartBeat.Parser, null, null, null, null)
           }));
     }
@@ -2496,7 +2497,7 @@ namespace DTSSDK.Model {
   }
 
   /// <summary>
-  ///设备状态， 广播
+  ///温度信号， 广播
   /// </summary>
   public sealed partial class TempSignalNotify : pb::IMessage<TempSignalNotify> {
     private static readonly pb::MessageParser<TempSignalNotify> _parser = new pb::MessageParser<TempSignalNotify>(() => new TempSignalNotify());
@@ -2526,6 +2527,7 @@ namespace DTSSDK.Model {
       deviceID_ = other.deviceID_;
       line_ = other.line_;
       channelID_ = other.channelID_;
+      realLength_ = other.realLength_;
       signal_ = other.signal_.Clone();
       timestamp_ = other.timestamp_;
       _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
@@ -2569,10 +2571,21 @@ namespace DTSSDK.Model {
       }
     }
 
+    /// <summary>Field number for the "RealLength" field.</summary>
+    public const int RealLengthFieldNumber = 4;
+    private float realLength_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public float RealLength {
+      get { return realLength_; }
+      set {
+        realLength_ = value;
+      }
+    }
+
     /// <summary>Field number for the "Signal" field.</summary>
-    public const int SignalFieldNumber = 4;
+    public const int SignalFieldNumber = 5;
     private static readonly pb::FieldCodec<float> _repeated_signal_codec
-        = pb::FieldCodec.ForFloat(34);
+        = pb::FieldCodec.ForFloat(42);
     private readonly pbc::RepeatedField<float> signal_ = new pbc::RepeatedField<float>();
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public pbc::RepeatedField<float> Signal {
@@ -2580,7 +2593,7 @@ namespace DTSSDK.Model {
     }
 
     /// <summary>Field number for the "Timestamp" field.</summary>
-    public const int TimestampFieldNumber = 5;
+    public const int TimestampFieldNumber = 6;
     private long timestamp_;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public long Timestamp {
@@ -2606,6 +2619,7 @@ namespace DTSSDK.Model {
       if (DeviceID != other.DeviceID) return false;
       if (Line != other.Line) return false;
       if (ChannelID != other.ChannelID) return false;
+      if (!pbc::ProtobufEqualityComparers.BitwiseSingleEqualityComparer.Equals(RealLength, other.RealLength)) return false;
       if(!signal_.Equals(other.signal_)) return false;
       if (Timestamp != other.Timestamp) return false;
       return Equals(_unknownFields, other._unknownFields);
@@ -2617,6 +2631,7 @@ namespace DTSSDK.Model {
       if (DeviceID.Length != 0) hash ^= DeviceID.GetHashCode();
       if (Line.Length != 0) hash ^= Line.GetHashCode();
       if (ChannelID != 0) hash ^= ChannelID.GetHashCode();
+      if (RealLength != 0F) hash ^= pbc::ProtobufEqualityComparers.BitwiseSingleEqualityComparer.GetHashCode(RealLength);
       hash ^= signal_.GetHashCode();
       if (Timestamp != 0L) hash ^= Timestamp.GetHashCode();
       if (_unknownFields != null) {
@@ -2644,9 +2659,13 @@ namespace DTSSDK.Model {
         output.WriteRawTag(24);
         output.WriteInt32(ChannelID);
       }
+      if (RealLength != 0F) {
+        output.WriteRawTag(37);
+        output.WriteFloat(RealLength);
+      }
       signal_.WriteTo(output, _repeated_signal_codec);
       if (Timestamp != 0L) {
-        output.WriteRawTag(40);
+        output.WriteRawTag(48);
         output.WriteInt64(Timestamp);
       }
       if (_unknownFields != null) {
@@ -2665,6 +2684,9 @@ namespace DTSSDK.Model {
       }
       if (ChannelID != 0) {
         size += 1 + pb::CodedOutputStream.ComputeInt32Size(ChannelID);
+      }
+      if (RealLength != 0F) {
+        size += 1 + 4;
       }
       size += signal_.CalculateSize(_repeated_signal_codec);
       if (Timestamp != 0L) {
@@ -2689,6 +2711,9 @@ namespace DTSSDK.Model {
       }
       if (other.ChannelID != 0) {
         ChannelID = other.ChannelID;
+      }
+      if (other.RealLength != 0F) {
+        RealLength = other.RealLength;
       }
       signal_.Add(other.signal_);
       if (other.Timestamp != 0L) {
@@ -2717,12 +2742,16 @@ namespace DTSSDK.Model {
             ChannelID = input.ReadInt32();
             break;
           }
-          case 34:
           case 37: {
+            RealLength = input.ReadFloat();
+            break;
+          }
+          case 42:
+          case 45: {
             signal_.AddEntriesFrom(input, _repeated_signal_codec);
             break;
           }
-          case 40: {
+          case 48: {
             Timestamp = input.ReadInt64();
             break;
           }

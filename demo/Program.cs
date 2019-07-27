@@ -24,7 +24,7 @@ namespace demo
         }
         static void TempSignalNotify(TempSignalNotify notify)
         {
-            Console.WriteLine("TempSignalNotify:" + notify.DeviceID);
+            Console.WriteLine("TempSignalNotify:" + notify.DeviceID+notify.RealLength);
         }
         
         static void ZoneTempNotify(ZoneTempNotify notify)
